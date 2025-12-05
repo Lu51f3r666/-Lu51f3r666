@@ -44,6 +44,8 @@
 
 ---
 
+![541291876_801760312408761_897377146346507251_n](https://github.com/user-attachments/assets/05a3d1a3-c721-4b0b-bbab-7d2fdc3770f0)
+
 ## ⚡ GITHUB METRICS
 
 <p align="center">
@@ -70,9 +72,8 @@
 
 <p align="center"><i>"In the world of code, nothing is safe… unless you make it." </i></p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8eQdWfL.gif" width="70%">
-</p>
+![590179368_616094048228935_2565805043261022853_n](https://github.com/user-attachments/assets/d41d3c57-ab0b-4ea1-80e0-eeca39c3906c)
+
 
 ---
 
