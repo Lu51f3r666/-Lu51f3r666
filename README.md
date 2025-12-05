@@ -1,83 +1,75 @@
 # Lusifer_666
+<!-- ================================================= -->
+<!-- 🔥 DARK HACKER PROFILE — MADE FOR Lusifer_666 🔥 -->
+<!-- ================================================= -->
 
-```markdown
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/7Z6T2bW.gif" alt="hacker banner" width="100%">
+  <img src="https://i.imgur.com/7Z6T2bW.gif" width="100%" alt="banner">
 </p>
 
-<h1 align="center">👁️‍🗨️ Lusifer_666 👁️‍🗨️</h1>
-<p align="center">
-  <b>— Between Light & Shadows… I Hunt Bugs, Break Limits, and Build Systems —</b>
-</p>
-![Uploading 589490289_3125110654336220_8572055383177333766_n.jpg…]()
+<h1 align="center">⚡ L U S I F E R _ 6 6 6 ⚡</h1>
+<p align="center"><b>Security Researcher • Bug Hunter • Automation Builder</b></p>
 
 ---
 
-## 🕶️ Who Am I?
+## 🕶️ IDENTITY
 
-```
+    codename: Lusifer_666
+    clearance: 6-6-6
+    speciality: bug_hunting / recon / exploitation
+    mode: active
+    origin: unknown
 
-> identity: unknown
-> location: encrypted
-> access level: 666
-> status: active
-
-```
-
-I operate in the shadows between **code, security, and the deep side of the web**.  
-Creating tools, exploiting bugs, automating everything, and upgrading myself every day.
 
 ---
 
-## 🩸 Cyber Badges
+## ⚙️ TECH ARSENAL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Active-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Hunting-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Skill-H4X0R-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-Arch-black?style=for-the-badge&logo=archlinux"/>
-</p>
+▸ Python / Bash
+▸ Recon & OSINT
+▸ Web Exploitation
+▸ Linux Engineering
+▸ Automation & Scripting
 
----
-
-## 🧠 Tech Arsenal
-
-```
-
-[✓] Recon Automation
-[✓] Web Exploitation
-[✓] Bash + Python
-[✓] Linux Engineering
-[✓] OSINT
-
-```
 
 ---
 
-## 🩻 My Code Pulse
+## 🩸 STATUS BADGES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lusifer_666&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusifer_666&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Mode-Active-red?style=for-the-badge&logo=kalilinux">
+  <img src="https://img.shields.io/badge/Status-Hunting-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-Arch-black?style=for-the-badge&logo=archlinux">
+  <img src="https://img.shields.io/badge/Skill-H4X0R-green?style=for-the-badge">
 </p>
 
 ---
 
-## ⚡ Projects From The Shadows
+## ⚡ GITHUB METRICS
 
-- **Cyber-Recon** → automated recon toolkit  
-- **Ghost-Scanner** → fast web scanner  
-- **DarkEye OSINT** → information extraction engine  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lusifer_666&show_icons=true&theme=radical&hide_border=true">
+</p>
 
-*(غيّرهم أسامي مشاريعك الحقيقية لو عندك)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusifer_666&layout=compact&theme=radical&hide_border=true">
+</p>
 
 ---
 
-## 🜂 “Code is a sword… Security is the armor.”
+## 🕷️ PROJECTS FROM THE SHADOWS
+
+| Project | Description |
+|--------|-------------|
+| **Cyber-Recon** | Automated Recon & Enumeration Engine |
+| **DarkEye OSINT** | Deep information extraction toolkit |
+| **Ghost-Scanner** | High‑speed scanning engine |
+
+---
+
+## 🖤 PHILOSOPHY
+
+<p align="center"><i>"In the world of code, nothing is safe… unless you make it." </i></p>
 
 <p align="center">
   <img src="https://i.imgur.com/8eQdWfL.gif" width="70%">
@@ -85,11 +77,10 @@ Creating tools, exploiting bugs, automating everything, and upgrading myself eve
 
 ---
 
-### 💬 Reach Me (If You Dare)
-```
+## 🌑 CONTACT (IF YOU DARE)
 
-connection: open
-contact: twitter / github / dark channels
+access: granted
+channels: github / twitter / encrypted
 
-```
-```
+
+---
